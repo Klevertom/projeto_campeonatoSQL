@@ -1,4 +1,4 @@
-
+[dumpPostgreSQL2.txt](https://github.com/user-attachments/files/17623901/dumpPostgreSQL2.txt)
 # Banco de Dados
 <p align = "justify">Trabalho apresentado à professora Rafaela Pessin, da disciplina Banco de Dados da EEEFM Professor Joaquim Barbosa Quitiba, inclusa no Campeonato de SQL, uma estratégia envolvendo gamificação e protagonismo.
  Os alunos tiveram todos os conceitos de banco de dados, desde conceitos base até a modelagem de dados. Este trabalho tem o objetivo implementar uma banco de dados usando a Linguagem de Consulta Estruturada SQL.
@@ -52,8 +52,7 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 * Utilize a ferramenta a seguir para esta tarefa: https://sqliteonline.com/
 * Você deve anexar o arquivo do seu projeto de banco de dados (create.sql) neste GitHub a cada atualização contendo os CREATE.
 
-* 
-[Uploading dumpPostgreSQL.sql…--
+[Upload--
 -- PostgreSQL database dump
 --
 
@@ -126,7 +125,8 @@ ALTER TABLE ONLY public.demo
 -- PostgreSQL database dump complete
 --
 
-]()
+ing dumpPostgreSQL2.txt…]()
+
 
 # ETAPA 2 - Inserção de Dados (ATÉ 22/11/2024)
 * Insira no mínimo 20 linhas de dados em cada tabela (INSERT).
