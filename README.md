@@ -37,8 +37,8 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 # Integrantes do Grupo
 1) Kauã Santos
 2) Kleverton Pereira
-3) Diego Barbosa
-4) Kauany de Oliveira
+3) Kauany de Oliveira
+4) Diego Barbosa
 5) Paola Alessandra
 
 # Modelo Lógico
