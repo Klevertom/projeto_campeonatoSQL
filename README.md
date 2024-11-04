@@ -1,3 +1,4 @@
+
 # Banco de Dados
 <p align = "justify">Trabalho apresentado à professora Rafaela Pessin, da disciplina Banco de Dados da EEEFM Professor Joaquim Barbosa Quitiba, inclusa no Campeonato de SQL, uma estratégia envolvendo gamificação e protagonismo.
  Os alunos tiveram todos os conceitos de banco de dados, desde conceitos base até a modelagem de dados. Este trabalho tem o objetivo implementar uma banco de dados usando a Linguagem de Consulta Estruturada SQL.
@@ -34,11 +35,11 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 [Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
+1) Kauã Santos
+2) Kleverton Pereira
+3) Diego Barbosa
+4) Kauany de Oliveira
+5) Paola Alessandra
 
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
